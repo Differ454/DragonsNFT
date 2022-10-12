@@ -1,0 +1,472 @@
+Uri: https://cdn.cuberto.com/lv/fonts/el-messiri/el-messiri-500.woff
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\el-messiri\el-messiri-500.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.cuberto.com/lv/fonts/el-messiri/el-messiri-500.woff2
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\el-messiri\el-messiri-500.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.cuberto.com/lv/fonts/el-messiri/el-messiri-600.woff
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\el-messiri\el-messiri-600.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.cuberto.com/lv/fonts/el-messiri/el-messiri-600.woff2
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\el-messiri\el-messiri-600.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.cuberto.com/lv/fonts/el-messiri/el-messiri-700.woff
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\el-messiri\el-messiri-700.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.cuberto.com/lv/fonts/el-messiri/el-messiri-700.woff2
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\el-messiri\el-messiri-700.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.cuberto.com/lv/fonts/el-messiri/el-messiri-regular.woff
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\el-messiri\el-messiri-regular.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.cuberto.com/lv/fonts/el-messiri/el-messiri-regular.woff2
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\el-messiri\el-messiri-regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.cuberto.com/lv/fonts/montserrat/montserrat-500.woff
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\montserrat\montserrat-500.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.cuberto.com/lv/fonts/montserrat/montserrat-500.woff2
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\montserrat\montserrat-500.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.cuberto.com/lv/fonts/montserrat/montserrat-600.woff
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\montserrat\montserrat-600.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.cuberto.com/lv/fonts/montserrat/montserrat-600.woff2
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\montserrat\montserrat-600.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.cuberto.com/lv/fonts/montserrat/montserrat-700.woff
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\montserrat\montserrat-700.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.cuberto.com/lv/fonts/montserrat/montserrat-700.woff2
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\montserrat\montserrat-700.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.cuberto.com/lv/fonts/montserrat/montserrat-regular.woff
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\montserrat\montserrat-regular.woff
+Content Type: application/font-woff
+
+Uri: https://cdn.cuberto.com/lv/fonts/montserrat/montserrat-regular.woff2
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\fonts\montserrat\montserrat-regular.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdn.cuberto.com/lv/img/about/custom/1.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\custom\1.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/custom/1@2x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\custom\1@2x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/custom/2.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\custom\2.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/custom/2@2x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\custom\2@2x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/custom/3.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\custom\3.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/custom/3@2x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\custom\3@2x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/features/1.svg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\features\1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cuberto.com/lv/img/about/features/2.svg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\features\2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cuberto.com/lv/img/about/features/3.svg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\features\3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cuberto.com/lv/img/about/features/4.svg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\features\4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cuberto.com/lv/img/about/headline/1.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\headline\1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/about/headline/1@1.5x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\headline\1@1.5x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/about/headline/2.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\headline\2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/about/headline/2@1.5x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\headline\2@1.5x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/about/headline/3.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\headline\3.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/headline/3.webp
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\headline\3.webp
+Content Type: image/webp
+
+Uri: https://cdn.cuberto.com/lv/img/about/team/1.svg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\team\1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cuberto.com/lv/img/about/team/2.svg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\team\2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cuberto.com/lv/img/about/team/3.svg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\team\3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cuberto.com/lv/img/about/team/4.svg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\team\4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cuberto.com/lv/img/about/team/5.svg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\team\5.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cuberto.com/lv/img/about/team/6.svg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\team\6.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/1.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\1.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/1.webp
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\1.webp
+Content Type: image/webp
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/1@2x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\1@2x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/1@2x.webp
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\1@2x.webp
+Content Type: image/webp
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/2.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\2.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/2.webp
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\2.webp
+Content Type: image/webp
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/2@2x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\2@2x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/2@2x.webp
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\2@2x.webp
+Content Type: image/webp
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/3.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\3.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/3.webp
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\3.webp
+Content Type: image/webp
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/3@2x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\3@2x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/3@2x.webp
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\3@2x.webp
+Content Type: image/webp
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/4.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\4.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/4.webp
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\4.webp
+Content Type: image/webp
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/4@2x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\4@2x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/4@2x.webp
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\4@2x.webp
+Content Type: image/webp
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/5.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\5.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/5@2x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\5@2x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/6.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\6.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/6@2x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\6@2x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/7.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\7.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/7@2x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\7@2x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/8.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\8.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/about/variation/8@2x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\about\variation\8@2x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/home/1-lap.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\1-lap.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/1-lap@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\1-lap@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/1-mob.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\1-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/1-mob@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\1-mob@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/2-lap.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\2-lap.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/home/2-lap@2x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\2-lap@2x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/home/2-mob.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\2-mob.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/home/2-mob@2x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\2-mob@2x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/home/3-lap.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\3-lap.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/3-lap@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\3-lap@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/3-mob.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\3-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/3-mob@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\3-mob@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/4-lap.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\4-lap.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/4-lap@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\4-lap@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/4-mob.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\4-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/4-mob@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\4-mob@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/5-lap.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\5-lap.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/5-lap@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\5-lap@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/5-mob.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\5-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/5-mob@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\5-mob@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/6-lap.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\6-lap.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/6-lap@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\6-lap@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/6-mob.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\6-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/6-mob@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\6-mob@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/7-lap.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\7-lap.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/7-lap@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\7-lap@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/7-mob.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\7-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/7-mob@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\7-mob@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/8-lap.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\8-lap.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/8-lap@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\8-lap@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/8-mob.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\8-mob.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/home/8-mob@2x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\home\8-mob@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/logo/logo.svg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\logo\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.cuberto.com/lv/img/menu/1.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\menu\1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/menu/1@1.5x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\menu\1@1.5x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/menu/2.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\menu\2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/menu/2@1.5x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\menu\2@1.5x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/menu/3.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\menu\3.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/menu/3@1.5x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\menu\3@1.5x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/menu/4.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\menu\4.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/menu/5.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\menu\5.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/menu/5@1.5x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\menu\5@1.5x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/subscribe/1.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\subscribe\1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/subscribe/1@1.5x.jpg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\subscribe\1@1.5x.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.cuberto.com/lv/img/subscribe/2.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\subscribe\2.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/subscribe/2@1.5x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\subscribe\2@1.5x.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/subscribe/3.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\subscribe\3.png
+Content Type: image/png
+
+Uri: https://cdn.cuberto.com/lv/img/subscribe/3@1.5x.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\lv\img\subscribe\3@1.5x.png
+Content Type: image/png
+
+Uri: https://levora.cuberto.com/
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\index.htm
+Content Type: text/html
+
+Uri: https://levora.cuberto.com/about/
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\about\index.htm
+Content Type: text/html
+
+Uri: https://levora.cuberto.com/apple-touch-icon.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://levora.cuberto.com/assets/js/bundle.js?v=0.2.12
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\assets\js\bundle.js
+Content Type: application/javascript
+
+Uri: https://levora.cuberto.com/favicon-16x16.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://levora.cuberto.com/favicon-32x32.png
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://levora.cuberto.com/safari-pinned-tab.svg
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://levora.cuberto.com/site.webmanifest
+File Name: C:\Users\diffe\Desktop\WEB RIP\levora.cuberto.com\site.webmanifest
+Content Type: 
+
